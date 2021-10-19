@@ -1,8 +1,8 @@
-* {
+/* * {
   border: 3px solid black;
   margin: 3px;
   padding: 10px;
-}
+} */
 
 .menuFlex {
   display: flex;
@@ -24,4 +24,8 @@ header nav a {
   background-color: brown;
   color: goldenrod;
   font-size: 2rem;
+}
+
+main article p {
+  font-size: 10px;
 }
